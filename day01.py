@@ -9,3 +9,11 @@ linguagem = "Python"
 print("Olá,", nome)
 print("Você Cursa:", faculdade)
 print("Linguagem que ira aprender:", linguagem)
+
+
+objetivo = input("\nQual o seu objetivo? ")
+
+print("\nOlá,", nome)
+print("Você Cursa:", faculdade)
+print("Linguagem que ira aprender:", linguagem)
+print("Seu Objetivo:", objetivo)
